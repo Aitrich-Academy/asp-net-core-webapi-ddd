@@ -50,3 +50,16 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs
+# Visual Studio files
+bin/
+obj/
+.vs/
+
+# Executables and libraries
+*.exe
+*.dll
+*.pdb
+
+# NuGet packages
+/packages/
